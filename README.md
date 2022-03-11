@@ -1,7 +1,9 @@
 # NYC Bikesharing Analysis
 
 ## Overview of the analysis
-This project is aimed at analyzing NYC bikesharing data for August 2019 to identify the rental trends with the purpose of opening a bikesharing service in Des Moines.
+The purpose of this project is to analyze NYC bikesharing data for August 2019 to identify the rental trends with the purpose of opening a bikesharing service in Des Moines. Below I present my  conclusions from the analysis. 
+
+You can also view a Tableau dashboard [here](https://public.tableau.com/app/profile/togneva/viz/NYCBikesharingAnalysis_16468099353850/NYCBikesharingStory). 
 
 ## Results: 
 As the US population becomes more health aware and envoronment concious, the biking trend is on the rise.
